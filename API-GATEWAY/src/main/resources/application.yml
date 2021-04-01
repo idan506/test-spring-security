@@ -1,0 +1,16 @@
+spring:
+  application:
+    name: API-GATEWAY
+
+server:
+  port: 8008
+
+zuul:
+  routes:
+    user-service:
+      path: /api/user/**
+      serviceId: user-service
+
+eureka:
+  client:
+    fetchRegistry: true
