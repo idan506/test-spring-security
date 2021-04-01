@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/API-GATEWAY/API-GATEWAY.iml" filepath="$PROJECT_DIR$/API-GATEWAY/API-GATEWAY.iml" />
+      <module fileurl="file://$PROJECT_DIR$/euruka/euruka/euruka.iml" filepath="$PROJECT_DIR$/euruka/euruka/euruka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/security/user-service/security.iml" filepath="$PROJECT_DIR$/security/user-service/security.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/test-spring-security.iml" filepath="$PROJECT_DIR$/.idea/test-spring-security.iml" />
+    </modules>
+  </component>
+</project>
